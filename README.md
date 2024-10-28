@@ -11,9 +11,6 @@
     <img alt="Contribution Time Distribution of @BearDad" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=34135363&period=all_times&image_size=auto&color_scheme=light" width="410" height="auto">
   </picture>
 </a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BearDad&theme=catppuccin-frappe&border_radius=4&date_format=j%20M%5B%20Y%5D&exclude_days=Mon" alt="GitHub Streak" /></a>
