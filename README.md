@@ -11,12 +11,17 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 - **I am interested in Computer Science, Web Development, and Game Development.**
 
 * 🌱 I’m currently learning ...
-  - Python 
+  - Python ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
   - React js 
   - Golang 
   - Lua 
 * 👯 I’m looking forward to collaborate on open source projects.
 * 📫 Reach out to me at: <a href=""></a>
+
+## Tech Stack
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?logo=python)
 
 **Check out my GitHub repository:**
 
