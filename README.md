@@ -11,10 +11,12 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 - **I am interested in Computer Science, Web Development, and Game Development.**
 
 * 🌱 I’m currently learning ...
-  - Python ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-  - React js ![React](https://img.shields.io/badge/React-66a0e2?style=for-the-badge&logo=react)
-  - Golang ![Go](https://img.shields.io/badge/Go-4f82c1?style=for-the-badge&logo=go)
-  - Lua ![Lua](https://img.shields.io/badge/Lua-66a0e2?style=for-the-badge&logo=lua)
+  - Python
+
+- React js
+- Golang
+- Lua
+
 * 👯 I’m looking forward to collaborate on open source projects.
 * 📫 Reach out to me at: <a href=""></a>
 
@@ -22,6 +24,10 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?logo=python)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![React](https://img.shields.io/badge/React-66a0e2?style=for-the-badge&logo=react)
+![Lua](https://img.shields.io/badge/Lua-66a0e2?style=for-the-badge&logo=lua)
+![Go](https://img.shields.io/badge/Go-4f82c1?style=for-the-badge&logo=go)
 
 **Check out my GitHub repository:**
 
