@@ -22,12 +22,11 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 
 ## Tech Stack
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?logo=python)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![React](https://img.shields.io/badge/React-66a0e2?style=for-the-badge&logo=react)
-![Lua](https://img.shields.io/badge/Lua-66a0e2?style=for-the-badge&logo=lua)
-![Go](https://img.shields.io/badge/Go-4f82c1?style=for-the-badge&logo=go)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-66a0e2?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![Lua](https://img.shields.io/badge/Lua-66a0e2?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/Go-4f82c1?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 
 **Check out my GitHub repository:**
 
