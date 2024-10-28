@@ -55,7 +55,9 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   </p> -->
   
   <p align="center">
-    <img width="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BearDad&theme=algolia"/>
-    <img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BearDad&layout=compact&theme=algolia"  />
+    <a>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BearDad&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BearDad&layout=compact&theme=algolia"  />
+    </a>
   </p>
 </div>
