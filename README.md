@@ -1,15 +1,6 @@
-### ⚙️ &nbsp;GitHub Analytics
+# 👋 Hi Im BearDad 👋.
 
-<p align="center">
-<a href="https://github.com/BearDad">
-  <img  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BearDad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://streak-stats.demolab.com?user=BearDad&theme=algolia&border_radius=4&date_format=j%20M%5B%20Y%5D&exclude_days=Sun" alt="GitHub Streak" />
-</a>
-</p>
-
-# Hi there 👋, Bhargavi here.
-
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BearDad.repoName) [![GitHub followers](https://img.shields.io/github/followers/BearDad.svg?style=social&label=Follow)](https://github.com/BearDad?tab=followers)<br/>
 
 <!--
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
