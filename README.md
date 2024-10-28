@@ -12,7 +12,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 
 * 🌱 I’m currently learning ...
   - Python ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-  - React js ![React](https://img.shields.io/badge/Go-66a0e2?style=for-the-badge&logo=react)
+  - React js ![React](https://img.shields.io/badge/React-66a0e2?style=for-the-badge&logo=react)
   - Golang ![Go](https://img.shields.io/badge/Go-4f82c1?style=for-the-badge&logo=go)
   - Lua ![Lua](https://img.shields.io/badge/Lua-66a0e2?style=for-the-badge&logo=lua)
 * 👯 I’m looking forward to collaborate on open source projects.
