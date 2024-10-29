@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/BearDad.svg?style=social&label=Follow)](https://github.com/BearDad?tab=followers)<br/>
 
-<img align="right" width=300px alt="Unicorn" src="https://tenor.com/bTM2B.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media1.tenor.com/m/3nbixb4sac4aaaac/bear.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_About me_**
 
