@@ -3,8 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/BearDad.svg?style=social&label=Follow)](https://github.com/BearDad?tab=followers)<br/>
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-<img align="left" width=300px alt="Unicorn" src="" />
-<iframe src="https://giphy.com/embed/l0K4puBUN4w6G4ksE" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/natgeowild-nat-geo-wild-deadly-worlds-deadliest-l0K4puBUN4w6G4ksE">via GIPHY</a></p>
+<img align="right" width=300px alt="Unicorn" src="https://giphy.com/embed/l0K4puBUN4w6G4ksE" />
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_About me_**
 
 PLC technician. studying Harvard's CS50P at edx.
