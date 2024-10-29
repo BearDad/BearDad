@@ -11,22 +11,28 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 - **I am interested in Computer Science, Web Development, and Game Development.**
 
 * 🌱 I’m currently learning ...
-  - Python
 
-- React js
-- Golang
-- Lua
+  - Python
+  - React js
+  - Golang
+  - Lua
 
 * 👯 I’m looking forward to collaborate on open source projects.
 * 📫 Reach out to me at: <a href=""></a>
 
 ## Tech Stack
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 ![React](https://img.shields.io/badge/React-66a0e2?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![Lua](https://img.shields.io/badge/Lua-66a0e2?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
-![Go](https://img.shields.io/badge/Go-4f82c1?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 **Check out my GitHub repository:**
 
