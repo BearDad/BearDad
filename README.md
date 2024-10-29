@@ -20,7 +20,7 @@ PLC technician. studying at IES Jorge Manrique
 * 👯 I’m looking forward to collaborate on open source projects.
 * 📫 Reach out to me at: <a href=""></a>
 
-## Tech Stack
+## 💻 Tech Stack
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
