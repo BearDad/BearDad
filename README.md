@@ -6,7 +6,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_About me_**
 
-PLC technician. studying at IES Jorge Manrique
+PLC technician. studying Harvard's CS50P at edx.
 
 - **I am interested in Computer Science, Web Development, and Game Development.**
 
