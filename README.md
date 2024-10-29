@@ -2,8 +2,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/BearDad.svg?style=social&label=Follow)](https://github.com/BearDad?tab=followers)<br/>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-<div class="tenor-gif-embed" data-postid="25650543" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/bear-dance-no-background-gif-25650543">Bear Dance No Background Sticker</a>from <a href="https://tenor.com/search/bear+dance+no+background-stickers">Bear Dance No Background Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" width=300px alt="Unicorn" src="https://tenor.com/bTM2B.gif" />
+
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_About me_**
 
 PLC technician. studying Harvard's CS50P at edx.
