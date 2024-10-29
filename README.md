@@ -2,8 +2,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/BearDad.svg?style=social&label=Follow)](https://github.com/BearDad?tab=followers)<br/>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-<img align="right" width=300px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm81Y2twend4bzE3MDg3ZGFiOGd5OW0zdWV1cjBmZW43cm1kODR3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K4puBUN4w6G4ksE/giphy.webp" />
+<img align="right" width=300px alt="Bear" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm81Y2twend4bzE3MDg3ZGFiOGd5OW0zdWV1cjBmZW43cm1kODR3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K4puBUN4w6G4ksE/giphy.webp" />
+
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_About me_**
 
 PLC technician. studying Harvard's CS50P at edx.
