@@ -53,7 +53,7 @@ PLC technician. studying Harvard's CS50P at edx.
   <p align="left">
     <a>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BearDad&theme=algolia"/>
-    <img align="right" height="180em" width="370em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BearDad&layout=compact&langs_count=8&theme=algolia"/>
+    <img align="right" height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BearDad&layout=compact&langs_count=8&theme=algolia"/>
     </a>
   </p>
 </div>
