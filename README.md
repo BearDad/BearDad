@@ -50,10 +50,10 @@ PLC technician. studying Harvard's CS50P at edx.
 <h2>👀 My github Stats</h2>
 
 <div>
-<!--   <p align="center">
+   <p align="center">
     <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=BearDad&cover_image=true&theme=algolia" alt="Now Listenting to" />
-  </p> -->
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=wolfiewolfgan23&cover_image=true&theme=algolia" alt="Now Listenting to" />
+  </p> 
   
   <p align="center">
     <a>
