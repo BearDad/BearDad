@@ -50,12 +50,7 @@ PLC technician. studying Harvard's CS50P at edx.
 <h2>👀 My github Stats</h2>
 
 <div>
-   <p align="center">
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=wolfiewolfgan23&cover_image=true&theme=algolia" alt="Now Listenting to" />
-  </p> 
-  
-  <p align="center">
+  <p align="left">
     <a>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BearDad&theme=algolia"/>
     <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BearDad&layout=compact&langs_count=8&theme=algolia"/>
