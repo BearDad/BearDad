@@ -1,10 +1,10 @@
-# 👋 Hi Im BearDad 👋.
+# 🐻 Hi Im BearDad 🐻
 
 [![GitHub followers](https://img.shields.io/github/followers/BearDad.svg?style=social&label=Follow)](https://github.com/BearDad?tab=followers)<br/>
 
 <img align="right" width=300px alt="Bear" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm81Y2twend4bzE3MDg3ZGFiOGd5OW0zdWV1cjBmZW43cm1kODR3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K4puBUN4w6G4ksE/giphy.webp" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_About me_**
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWdjc3dsanY1MWNsOXYxN21jeXE0amt4cjluanI1OWoyYnlubDM0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1wLXYOh3trpXIHXka5/giphy.webp" width="30px">&nbsp;**_About me_** <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk2MzMwZmp2MnR1bGx5bGhncGp3Y2x2YWFqbml3NHowazlnY3k0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GuAyo258Gj8m7UXYLg/giphy.webp" width="30px" >
 
 PLC technician. studying Harvard's CS50P at edx.
 
