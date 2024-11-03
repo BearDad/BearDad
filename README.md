@@ -34,13 +34,17 @@ PLC technician. studying Harvard's CS50P at edx.
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)&nbsp;
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)&nbsp;
 
-**Check out my GitHub repository:**
+**Check out my GitHub repositories:**
 
 <div>
   <p>
     <a href="https://github.com/BearDad/.dotfiles">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BearDad&repo=.dotfiles&theme=algolia" alt="GitHub Stats" />
     </a>
+    <a href="https://github.com/BearDad/cs50">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BearDad&repo=cs50&theme=algolia" alt="GitHub Stats" />
+    </a>
+      
     <!-- <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git"> -->
     <!--   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" /> -->
     <!-- </a> -->
