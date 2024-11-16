@@ -44,10 +44,6 @@ PLC technician. studying Harvard's CS50P at edx.
     <a href="https://github.com/BearDad/cs50">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BearDad&repo=cs50&theme=algolia" alt="GitHub Stats" />
     </a>
-      
-    <!-- <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git"> -->
-    <!--   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" /> -->
-    <!-- </a> -->
   </p>
 </div>
 
