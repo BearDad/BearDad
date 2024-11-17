@@ -57,3 +57,4 @@ PLC technician. studying Harvard's CS50P at edx.
     </a>
   </p>
 </div>
+im a student at the University of California, Berkeley.
