@@ -69,12 +69,8 @@ Most of my C++ goes here.
 ## 👀 My GitHub stats
 
 <p>
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BearDad&theme=algolia&show_icons=true&hide_border=false&count_private=false" alt="BearDad's GitHub stats" />
-  <img align="right" height="180" width="370" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BearDad&layout=compact&langs_count=8&theme=algolia" alt="Most used languages" />
-</p>
-
-<p>
-  <img height="180" src="https://streak-stats.demolab.com/?user=BearDad&theme=algolia&hide_border=false" alt="GitHub contribution streak" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BearDad&theme=algolia&show_icons=true&hide_border=false&count_private=false" alt="BearDad's GitHub stats" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=BearDad&theme=algolia&hide_border=false" alt="GitHub contribution streak" />
 </p>
 
 ## 🐍 Watch my contributions get eaten
