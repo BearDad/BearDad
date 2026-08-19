@@ -1,10 +1,10 @@
-# 🐻 Hi Im BearDad 🐻
+# 🐻 Hi, I'm BearDad 🐻
 
-[![GitHub followers](https://img.shields.io/github/followers/BearDad.svg?style=social&label=Follow)](https://github.com/BearDad?tab=followers)<br/>
+[![GitHub followers](https://img.shields.io/github/followers/BearDad.svg?style=social&label=Follow)](https://github.com/BearDad?tab=followers)
 
-<img align="right" width=300px alt="Bear" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm81Y2twend4bzE3MDg3ZGFiOGd5OW0zdWV1cjBmZW43cm1kODR3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K4puBUN4w6G4ksE/giphy.webp" />
+<img align="right" width="300" alt="Bear" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm81Y2twend4bzE3MDg3ZGFiOGd5OW0zdWV1cjBmZW43cm1kODR3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K4puBUN4w6G4ksE/giphy.webp" />
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWdjc3dsanY1MWNsOXYxN21jeXE0amt4cjluanI1OWoyYnlubDM0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1wLXYOh3trpXIHXka5/giphy.webp" width="50px">&nbsp;**_About me_** <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk2MzMwZmp2MnR1bGx5bGhncGp3Y2x2YWFqbml3NHowazlnY3k0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GuAyo258Gj8m7UXYLg/giphy.webp" width="50px" >
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWdjc3dsanY1MWNsOXYxN21jeXE0amt4cjluanI1OWoyYnlubDM0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1wLXYOh3trpXIHXka5/giphy.webp" width="50" alt="" />&nbsp;**_About me_** <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk2MzMwZmp2MnR1bGx5bGhncGp3Y2x2YWFqbml3NHowazlnY3k0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GuAyo258Gj8m7UXYLg/giphy.webp" width="50" alt="" />
 
 Embedded and computer vision dev. C++ most days, Linux always.
 
@@ -24,7 +24,7 @@ Most of my C++ goes here.
 
 `embedded C++` &nbsp;·&nbsp; `ESP32 / PlatformIO` &nbsp;·&nbsp; `OpenCV & vision pipelines` &nbsp;·&nbsp; `stepper motors & motion control` &nbsp;·&nbsp; `industrial wiring & control panels` &nbsp;·&nbsp; `Arch / Hyprland / Neovim setups`
 
-## 💻 Tech Stack
+## 💻 Tech stack
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
@@ -55,40 +55,32 @@ Most of my C++ goes here.
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/220324189532454912)&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.carbajales.soto@gmail.com)&nbsp;
 
-**Check out my GitHub repositories:**
+## 📌 Pinned repositories
 
-<div>
-  <p>
-    <a href="https://github.com/BearDad/.dotfiles">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BearDad&repo=.dotfiles&theme=algolia" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/BearDad/cs50">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BearDad&repo=cs50&theme=algolia" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
+<p>
+  <a href="https://github.com/BearDad/.dotfiles">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BearDad&repo=.dotfiles&theme=algolia" alt="BearDad/.dotfiles" />
+  </a>
+  <a href="https://github.com/BearDad/cs50">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BearDad&repo=cs50&theme=algolia" alt="BearDad/cs50" />
+  </a>
+</p>
 
-<h2>👀 My github Stats</h2>
+## 👀 My GitHub stats
 
-<div>
-  <p align="left">
-    <a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BearDad&theme=algolia&show_icons=true&hide_border=false&count_private=false" />
-    <img align="right" height="180em" width="370em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BearDad&layout=compact&langs_count=8&theme=algolia"/>
-    </a>
-  </p>
-</div>
+<p>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BearDad&theme=algolia&show_icons=true&hide_border=false&count_private=false" alt="BearDad's GitHub stats" />
+  <img align="right" height="180" width="370" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BearDad&layout=compact&langs_count=8&theme=algolia" alt="Most used languages" />
+</p>
 
-<div>
-  <p align="left">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=BearDad&theme=algolia&hide_border=false" />
-  </p>
-</div>
+<p>
+  <img height="180" src="https://streak-stats.demolab.com/?user=BearDad&theme=algolia&hide_border=false" alt="GitHub contribution streak" />
+</p>
 
-<h2>🐍 Watch my contributions get eaten</h2>
+## 🐍 Watch my contributions get eaten
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beardad/Beardad/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Beardad/Beardad/output/snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Beardad/Beardad/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BearDad/BearDad/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BearDad/BearDad/output/snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/BearDad/BearDad/output/snake.svg" />
 </picture>
