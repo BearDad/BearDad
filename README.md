@@ -40,21 +40,10 @@ Embedded and machine-vision developer from Spain. C++ on microcontrollers by day
 ![tmux](https://img.shields.io/badge/tmux-%231BB91F.svg?style=for-the-badge&logo=tmux&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 
-## 📌 Projects
-
-<p>
-  <a href="https://github.com/BearDad/.dotfiles">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BearDad&repo=.dotfiles&theme=algolia" alt="BearDad/.dotfiles" />
-  </a>
-  <a href="https://github.com/BearDad/cs50">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BearDad&repo=cs50&theme=algolia" alt="BearDad/cs50" />
-  </a>
-</p>
-
 ## 📈 Activity
 
 <p>
-  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BearDad&theme=algolia&show_icons=true&hide_border=false&count_private=false" alt="BearDad's GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BearDad&theme=algolia&show_icons=true&hide_border=false&count_private=false" alt="BearDad's GitHub stats" />
   <img height="160" src="https://streak-stats.demolab.com/?user=BearDad&theme=algolia&hide_border=false" alt="GitHub contribution streak" />
 </p>
 
